@@ -106,4 +106,3 @@ equals_bttn = ttk.Button(frame_4, text="=", command=ins_equals)
 equals_bttn.grid(row=4, column=1)
 root.mainloop()
 
-#SDAFergwbthdfsfqergbwfdsafewrbgrfvdefweqr3gt4hwynthe gfbvdefwerq3t5g4hyrbgfewqr3g5t4
