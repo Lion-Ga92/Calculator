@@ -13,14 +13,14 @@ i read about the Eval function but also how dangerous it was, and while i did no
 
 #### Part of the evaluation function 
 
-    '''def ins_equals():
+    def ins_equals():
         var_op = display_txt.get("2.0")
         var_1 = display_txt.get("1.0", "1.9")
         var_3= display_txt.get("3.0", "3.99")
         if var_op == "+":
             solve_sum = (int(var_1) + int(var_3))
             display_txt.delete("1.0", END)
-            display_txt.insert("1.0", solve_sum)...'''
+            display_txt.insert("1.0", solve_sum)...
 ##### Basically i took the operator symbol based as string and used display_txt.get("2.0") and put it in a variable. 
 At that point i took that variable used an if/elif/else control flow statements and called the numerical strings into a variable with display_txt.get() casting it to an int() and just run the respective operations. 
 
@@ -30,9 +30,6 @@ After further study, and a random article popping up in my news feed about Pytho
 With the use of these anonymous functions i was actually able to refactor the program. Following The Zen of Python advise that "Beautiful is better than Ugly" and "Simple is better than complex". 
 
 Talking about the Zen, i went for this project with my noobie arsenal following the advise that now is better than never. 
-
-
-#### Anyway! These are some of my opinions 
 
 
 
