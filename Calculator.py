@@ -106,5 +106,4 @@ equals_bttn = ttk.Button(frame_4, text="=", command=ins_equals)
 equals_bttn.grid(row=4, column=1)
 root.mainloop()
 
-# i am trying to solve an issue with my ability to push things to github 
-# SO IGNORE THESE COMMENTS
+#SDAFergwbthdfsfqergbwfdsafewrbgrfvdefweqr3gt4hwynthe gfbvdefwerq3t5g4hyrbgfewqr3g5t4
