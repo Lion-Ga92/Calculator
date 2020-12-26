@@ -105,9 +105,3 @@ def ins_equals():
 equals_bttn = ttk.Button(frame_4, text="=", command=ins_equals)
 equals_bttn.grid(row=4, column=1)
 root.mainloop()
-
-
-
-#I am writing a comment to see if i solved push to github glitch ive been running into when pushing files to github
-# So i am trying to push directly from VsCode 
-# hello
