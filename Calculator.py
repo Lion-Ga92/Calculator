@@ -105,6 +105,3 @@ def ins_equals():
 equals_bttn = ttk.Button(frame_4, text="=", command=ins_equals)
 equals_bttn.grid(row=4, column=1)
 root.mainloop()
-
-
-# Ok it seems to give me the message for the very first phhhhush after reninitiating VSCode
